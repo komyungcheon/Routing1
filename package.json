@@ -1,0 +1,8 @@
+{
+  "name": "Routing1",
+  "version": "1.0.0",
+  "dependencies": {
+    "qs": "^6.11.2"
+  },
+  "type": "module"
+}
